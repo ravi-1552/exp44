@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello world to kasndnkn
 aljdnfkn
+=======
+ this is ravi
+ hello
+>>>>>>> fb
